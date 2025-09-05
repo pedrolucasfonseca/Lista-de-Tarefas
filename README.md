@@ -1,6 +1,6 @@
 # 📝 Gerenciador de Tarefas em Python com uso de arquivo JSON
 
-Este é um simples gerenciador de tarefas feito em Python, que permite adicionar, listar e remover tarefas, com persistência de dados usando um arquivo JSON.
+Um simples gerenciador de tarefas feito em Python, que permite adicionar, listar e remover tarefas, com persistência de dados usando um arquivo JSON.
 
 ## 🚀 Funcionalidades
 
